@@ -1,0 +1,25 @@
+Process P1:
+Turnaround Time: 28
+Waiting Time: 6
+Penalty Ratio: 1.4
+Completion Time: 28
+##################################################
+
+Process P2:
+Turnaround Time: 45
+Waiting Time: 9
+Penalty Ratio: 1.5
+Completion Time: 45
+##################################################
+
+Process P3:
+Turnaround Time: 20
+Waiting Time: 10
+Penalty Ratio: 2
+Completion Time: 20
+##################################################
+
+Average Turnaround Time: 31
+Average Waiting Time: 8.33333
+Average Penalty Ratio: 1.63333
+Throughput: 0.0666667

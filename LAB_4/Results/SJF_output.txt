@@ -1,0 +1,53 @@
+Process P1:
+Turnaround Time: 1097
+Waiting Time: 676
+Penalty Ratio: 2.6057
+Completion Time: 1097
+##################################################
+
+Process P2:
+Turnaround Time: 1436
+Waiting Time: 1095
+Penalty Ratio: 4.21114
+Completion Time: 1438
+##################################################
+
+Process P3:
+Turnaround Time: 1084
+Waiting Time: 793
+Penalty Ratio: 3.72509
+Completion Time: 1087
+##################################################
+
+Process P4:
+Turnaround Time: 573
+Waiting Time: 372
+Penalty Ratio: 2.85075
+Completion Time: 577
+##################################################
+
+Process P5:
+Turnaround Time: 179
+Waiting Time: 166
+Penalty Ratio: 13.7692
+Completion Time: 184
+##################################################
+
+Process P6:
+Turnaround Time: 99
+Waiting Time: 94
+Penalty Ratio: 19.8
+Completion Time: 105
+##################################################
+
+Process P7:
+Turnaround Time: 477
+Waiting Time: 272
+Penalty Ratio: 2.32683
+Completion Time: 487
+##################################################
+
+Average Turnaround Time: 706.429
+Average Waiting Time: 495.429
+Average Penalty Ratio: 7.04125
+Throughput: 0.00486787

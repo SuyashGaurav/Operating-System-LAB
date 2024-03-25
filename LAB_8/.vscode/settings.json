@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.html": "html",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.html": "html",
+        "istream": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "utility": "cpp",
+        "atomic": "cpp",
+        "fstream": "cpp",
+        "cmath": "cpp",
+        "memory": "cpp",
+        "mutex": "cpp",
+        "iosfwd": "cpp",
+        "xlocmes": "cpp"
+    }
+}
